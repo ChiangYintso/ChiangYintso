@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/ChiangYintso">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiangYintso&hide=G-code,Jupyter Notebook&langs_count=8&layout=compact" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiangYintso&hide=G-code,Jupyter Notebook&langs_count=10&layout=compact" />
 </a>
