@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/ChiangYintso">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiangYintso&hide=G-code,Jupyter Notebook&langs_count=16&layout=compact" />
 </a>
+![江胤佐's github stats](https://github-readme-stats.vercel.app/api?username=ChiangYintso&show_icons=true&theme=radical)
